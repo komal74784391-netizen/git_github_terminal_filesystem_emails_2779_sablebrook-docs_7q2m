@@ -1,4 +1,4 @@
-# Sablebrook Release Checklist
+# Sablebrook 2.4 Release Checklist
 
 ## Pending Documentation Entries
 
